@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 #
 # App server orchestration ad-hoc tasks.
 set -e
